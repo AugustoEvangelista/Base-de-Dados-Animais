@@ -1,7 +1,7 @@
-Título do exercício
+Título do exercício: 
   Base de Dados Animais (DELETE, ALTER, UPDATE E DROP)
 
-Descrição da atividade:
+Descrição da atividade: 
   Para está atividade duplique a base de dados utilizada na ATIVIDADE INDIVIDUAL – TEMA: BASE DE DADOS ANIMAIS;
   Após a criação de uma nova base, execute os códigos abaixo:
   Altere o nome do Pateta para Goofy;
@@ -22,8 +22,8 @@ Descrição da atividade:
   Produza o Readme do repositório remoto e tire um print da tela após o término da atividade;
   Coloque comentários em seu código.
 
-Progrmas utilizados:
+Progrmas utilizados: 
   MySQL Workbench
 
-Nome: 
+Nome:  
   Augusto Evangelista Domingues
