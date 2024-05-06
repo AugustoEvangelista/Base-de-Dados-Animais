@@ -21,6 +21,8 @@ Descrição da atividade:
   Crie um repositório remoto e envie o script em SQL;
   Produza o Readme do repositório remoto e tire um print da tela após o término da atividade;
   Coloque comentários em seu código.
+![image](https://github.com/AugustoEvangelista/Base-de-Dados-Animais/assets/169067689/43970a36-0982-41d1-9edb-50fbec63b451)
+![image](https://github.com/AugustoEvangelista/Base-de-Dados-Animais/assets/169067689/374f1d3d-63f8-438a-b64e-d6aafea022a2)
 
 Programas utilizados: 
   MySQL Workbench
