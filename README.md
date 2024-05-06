@@ -22,7 +22,7 @@ Descrição da atividade:
   Produza o Readme do repositório remoto e tire um print da tela após o término da atividade;
   Coloque comentários em seu código.
 
-Progrmas utilizados: 
+Programas utilizados: 
   MySQL Workbench
 
 Nome:  
